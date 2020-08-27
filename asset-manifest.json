@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/reactmath/static/css/main.5f361e03.chunk.css",
+    "main.js": "/reactmath/static/js/main.976056b6.chunk.js",
+    "main.js.map": "/reactmath/static/js/main.976056b6.chunk.js.map",
+    "runtime-main.js": "/reactmath/static/js/runtime-main.9186dc3a.js",
+    "runtime-main.js.map": "/reactmath/static/js/runtime-main.9186dc3a.js.map",
+    "static/js/2.dcda58fe.chunk.js": "/reactmath/static/js/2.dcda58fe.chunk.js",
+    "static/js/2.dcda58fe.chunk.js.map": "/reactmath/static/js/2.dcda58fe.chunk.js.map",
+    "index.html": "/reactmath/index.html",
+    "precache-manifest.95de8d61c7286bf57f3740da9e553ce5.js": "/reactmath/precache-manifest.95de8d61c7286bf57f3740da9e553ce5.js",
+    "service-worker.js": "/reactmath/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/reactmath/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.dcda58fe.chunk.js.LICENSE.txt": "/reactmath/static/js/2.dcda58fe.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/reactmath/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9186dc3a.js",
+    "static/js/2.dcda58fe.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.976056b6.chunk.js"
+  ]
+}
